@@ -1,0 +1,22 @@
+In HTML different headings are defines with `<h1> to <h6>` tags .
+
+For example :
+
+```HTML
+<h1>This is heading one</h1>
+<h2>This is heading two</h2>
+<h3>This is heading three</h3>
+<h4>This is heading four</h4>
+<h5>This is heading five</h5>
+<h6>This is heading six</h6>
+```
+
+output : 
+
+<h1>This is heading one</h1>
+<h2>This is heading two</h2>
+<h3>This is heading three</h3>
+<h4>This is heading four</h4>
+<h5>This is heading five</h5>
+<h6>This is heading six</h6>
+
